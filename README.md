@@ -2,7 +2,7 @@
 
 ## 安裝環境
 
-本專案是使用 `gulp 3.9.1`
+本專案是使用 `gulp 3.9.1` (適用 node 11 以下版本)
 
 ```
 npm install gulp -g
